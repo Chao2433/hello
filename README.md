@@ -1,2 +1,2 @@
 # hello
-github同步测试
+readme.txt
